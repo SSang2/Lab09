@@ -1,6 +1,6 @@
 package edu.handong.csee.java.lab09;
 /**
- * This lab09 is for MarketingAnalyzer
+ * This lab09 is for MarketingAnalyzer_main
  * by java programming 
  * 
  * @author LeeSangHyun

@@ -1,5 +1,10 @@
 package edu.handong.csee.java.lab09;
-
+/**
+ * This lab09 is for MarketingAnalyzer Salesman data
+ * by java programming 
+ * 
+ * @author LeeSangHyun
+ */
 public class Salesman {		//public class method for salesman
 	private String name;		//private instance string variable 
 	private double sales;		//private instance double integer variable 
