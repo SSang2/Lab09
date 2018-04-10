@@ -7,7 +7,7 @@ package edu.handong.csee.java.lab09;
  */
 import java.util.Scanner;		//insert
 
-public class MarketingAnalyzer_main {		//public main class method
+public class MarketingAnalyzer_main {		//public main class methodA
 	//variable declaration
 	private double highestSales;		//declare the highest sales variable
 	private double averageSales;		//declare the average sales variable
