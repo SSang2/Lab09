@@ -9,8 +9,8 @@ import java.util.Scanner;		//insert
 
 public class MarketingAnalyzer_main {		//public main class methodA
 	//variable declaration
-	private double highestSales;		//declare the highest sales variable
-	private double averageSales;		//declare the average sales variable
+	private double highestSales;		//declare the highest sales variables
+	private double averageSales;		//declare the average sales variables
 	private static Salesman[] team;		//declare the team (salesman) variable
 
 	public static void main(String[] args) {	//public main method 
